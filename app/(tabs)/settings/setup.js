@@ -1,3 +1,4 @@
+//prfile/setup.js
 import React, { useState, useEffect } from "react";
 import {
   View, Text, TextInput, Pressable, Alert, StyleSheet, ActivityIndicator,
